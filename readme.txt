@@ -1,5 +1,2 @@
-My second commit from PC
-Hello, World!
-
-Commit from the website
-Another commit from the website at the master branch
+Hello from auth_branch
+Second commit from auth_branch
